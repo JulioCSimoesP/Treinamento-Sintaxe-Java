@@ -3,6 +3,7 @@ public class TestePontoFlutuante {
 
 	public static void main(String[] args) {
 		
+		//Testa atribuição de variável double e operações aritméticas com double
 		double salario = 12345.6789;
 		System.out.println("Meu salário é R$" + salario);
 		

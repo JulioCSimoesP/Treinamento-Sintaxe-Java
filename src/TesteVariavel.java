@@ -3,6 +3,7 @@ public class TesteVariavel {
 
 	public static void main(String[] args) {
 
+		//Testa atribuição de variável int e operações aritméticas
 		int idade;
 		
 		idade = 37;	
